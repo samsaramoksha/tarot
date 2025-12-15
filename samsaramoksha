@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<title>Samsara Moksha – Tarot intuitif</title>
+<style>
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: linear-gradient(180deg, #0D1B2A, #1B263B);
+    color: #E0E1DD;
+    text-align: center;
+}
+.container {
+    max-width: 800px;
+    margin: auto;
+    padding: 40px 20px;
+}
+h1 {
+    font-size: 3em;
+    margin-bottom: 10px;
+}
+h2 {
+    font-weight: normal;
+    color: #A9BCD0;
+}
+p {
+    font-size: 1.1em;
+    line-height: 1.6;
+}
+.button {
+    display: inline-block;
+    margin: 15px;
+    padding: 15px 25px;
+    background-color: #415A77;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 30px;
+    font-size: 1em;
+}
+.button:hover {
+    background-color: #5C7FA3;
+}
+.footer {
+    margin-top: 40px;
+    font-size: 0.85em;
+    color: #A9BCD0;
+}
+</style>
+</head>
+
+<body>
+<div class="container">
+    <h1>Samsara Moksha</h1>
+    <h2>Tarot intuitif</h2>
+
+    <p>
+        Je propose des consultations de tarot intuitif dans une approche
+        bienveillante, respectueuse et connectée à l’instant présent.
+        Chaque tirage est guidé par l’intuition et l’écoute profonde.
+    </p>
+
+    <a class="button" href="mailto:TONEMAIL@exemple.com">
+        📧 Me contacter par email
+    </a>
+
+    <a class="button" href="TON LIEN DE VISIO ICI" target="_blank">
+        🎥 Consultation en direct
+    </a>
+
+    <div class="footer">
+        <p>
+            Les consultations sont offertes à titre spirituel et intuitif.
+            Elles ne remplacent pas un avis médical, juridique ou professionnel.
+        </p>
+    </div>
+</div>
+</body>
+</html>
